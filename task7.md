@@ -1,4 +1,4 @@
-# Git & Linux
+# Linux
 
 ## Linux Commands
 
